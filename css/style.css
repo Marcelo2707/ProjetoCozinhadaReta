@@ -1,0 +1,220 @@
+body{
+    background-color:#fff;
+}
+
+p{
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.cabecalho{
+    background-color:#F08080;
+    width: 100%;
+    height: 330px;
+    box-shadow: 2px 4px 8px;
+
+}
+
+.logofundobranco{
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+    margin-left: 3%;
+}
+
+
+.pesquisa{
+    width: 40%;
+    height: 40px;
+    margin-top: -200px;
+    margin-left: 18%;
+    font-size: 20px;
+    text-align: left;
+}
+
+.textopesquisa{
+    height: 0px;
+    margin-top:-50px;
+    margin-left: 19%;
+    font-size: 18px;
+}
+
+.atendimento{
+    width: 20%;
+    height:0px;
+    margin-top: -px;
+    margin-left: 65%;
+    font-size: 22px;
+    text-align: left;
+}
+
+.conta{
+    width: 17%;
+    height:0px;
+    margin-top: -20.6px;
+    margin-left: 74.5%;
+    font-size: 22px;
+    text-align: left;
+}
+
+.carrinho{
+    width: 17%;
+    height: 0px;
+    margin-top: -22px;
+    margin-left: 83.5%;
+    font-size: 22px;
+}
+
+.paes{
+    color: #F08080;
+    width: 0%;
+    margin-left:20% ;
+    font-size: 22px;
+    margin-top: 7.2%;
+}
+
+.nv{
+    color: #F08080;
+    width: 0%;
+    margin-left:27% ;
+    font-size: 21px ;
+    margin-top: -2.4%;
+}
+
+.of{
+    color: #F08080;
+    width: 0%;
+    margin-left:37% ;
+    font-size:21px ;
+    margin-top: -2.4%; 
+}
+
+.ctt{
+    color: #F08080;
+    width: 0%;
+    margin-left:45% ;
+    font-size:21px ;
+    margin-top: -2.4%; 
+}
+
+.at{
+    width: 4%;
+    transform: translateY(-256px);
+    margin-left: 66.1%;
+}
+
+.mc{
+    width: 3%;
+    transform: translateY(-324px);
+    margin-left: 75.85%;
+}
+
+.mr{
+    width: 2.75%;
+    transform: translateY(-380px);
+    margin-left: 85%;
+}
+
+.lupa{
+    width: 1.5%;
+    transform: translateY(-412px);
+    margin-left: 55.5%; 
+}
+
+.introducao{
+    width:500px;
+    transform: translateY(-235px);
+    margin-left: 73.5%;
+    box-shadow: 2px 2px 8px;
+}
+
+.fundocardapio{
+    background-color: #F08080;
+    width: 1380px;
+    height: 150px;
+    transform: translateY(-880px);
+    box-shadow: 2px 2px 8px;
+}
+
+.textocardapio{
+    width: 0px;
+    height: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    transform: translateY(-1048px);
+    margin-left: 30%;
+}
+
+.sobremesas{
+    width: 686px;
+    transform: translateY(-986px);
+    margin-left: 36.75%;
+    box-shadow: 2px 2px 8px;
+}
+
+.bolos{
+    width: 686px;
+    transform: translateY(-1445px);
+    margin-left: 0.01%;
+    box-shadow: -2px 2px 8px;
+}
+
+.pao{
+    width: 410px;
+    transform: translateY(-1410px);
+    box-shadow: 2px 2px 8px;
+}
+
+.bolocenoura{
+    width: 488px;
+    transform: translateY(-1838px);
+    margin-left: 22%;
+    box-shadow: 2px 2px 8px;
+}
+
+.bollitos{
+    width: 339px;
+    transform: translateY(-2265px);
+    margin-left: 48.2%;
+    box-shadow: 2px 2px 8px;
+}
+
+.abuelita{
+    width: 635px;
+    transform: translateY(-2692px);
+    margin-left: 66.5%;
+    box-shadow: 2px 2px 8px;
+}
+
+.textopao{
+    height: 0px;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    transform: translateY(-2708px);
+    margin-left: 4.5%;
+}
+
+.textobolodecenoura{
+    height: 0px;
+    font-size: 17.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transform: translateY(-2726px);
+    margin-left: 24.5%;
+}
+
+.textobollitos{
+    height: 0px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transform: translateY(-2744px);
+    margin-left: 50.2%;
+}
+
+.textoabuelita{
+    width: 800px;
+    height: 0px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transform: translateY(-2762px);
+    margin-left: 68.5%;
+}
